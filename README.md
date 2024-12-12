@@ -2,6 +2,19 @@
 
 A command-line tool to analyze and create context files for GitHub repositories.
 
+## Dependencies
+
+- brew install fd
+- brew install tree
+
+## Make script executable
+
+`chmod +x repo-context.sh`
+
+## Run directly from current directory
+
+`./repo-context.sh <URL>`
+
 ## Installation
 
 1. Clone this repository
